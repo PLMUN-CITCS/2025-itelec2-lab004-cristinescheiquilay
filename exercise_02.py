@@ -9,4 +9,3 @@ print("Formatted Output using f-strings:")
 print(f"Integer: {user_integer}")
 print(f"Decimal: {user_decimal:.2f}")  # Format decimal to two places
 print(f"String: {user_text}")
-python exercise_02.py
